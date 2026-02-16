@@ -1,0 +1,9 @@
+# Archivos compilados
+*.class
+*.ctxt
+
+# Documentación generada
+shapes/doc/
+
+# Archivos BlueJ innecesarios
+*.pkg
