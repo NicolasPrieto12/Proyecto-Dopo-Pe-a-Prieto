@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stackable
+comment0.text=\r\n\ Elemento\ apilable\ en\ la\ torre.\r\n\ La\ altura\ se\ maneja\ en\ cm\ (l\u00F3gico)\ y\ la\ posici\u00F3n\ en\ pixeles\ (visual).\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=y
+comment3.target=void\ setPosition(int)
+comment4.params=x
+comment4.target=void\ setX(int)
+numComments=5

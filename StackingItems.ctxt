@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StackingItems
+comment0.text=\r\n\ Clase\ principal.\r\n
+comment1.params=
+comment1.target=StackingItems()
+comment2.params=width\ height
+comment2.target=void\ createTower(int,\ int)
+comment2.text=\r\n\ Crea\ la\ torre.\r\n
+comment3.params=id\ height
+comment3.target=void\ addCup(int,\ int)
+comment3.text=\r\n\ Agrega\ una\ taza.\r\n
+comment4.params=
+comment4.target=java.lang.String\ consultInformation()
+comment4.text=\r\n\ Consulta\ informaci\u00F3n.\r\n
+numComments=5

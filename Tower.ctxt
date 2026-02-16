@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tower
+comment0.text=\r\n\ Tower\:\ maneja\ los\ elementos\ apilados\r\n\ y\ dibuja\ las\ marcas\ de\ cent\u00EDmetros.\r\n
+comment1.params=width\ height
+comment1.target=Tower(int,\ int)
+comment2.params=cup
+comment2.target=boolean\ addCup(Cup)
+comment2.text=\r\n\ Agrega\ una\ taza\ si\ cabe\ en\ la\ torre.\r\n
+comment3.params=
+comment3.target=int\ getCurrentHeight()
+comment3.text=\r\n\ Retorna\ la\ altura\ actual\ en\ cm.\r\n
+comment4.params=
+comment4.target=void\ reposition()
+comment4.text=\r\n\ Reposiciona\ las\ tazas\ desde\ el\ suelo\ hacia\ arriba.\r\n
+comment5.params=
+comment5.target=void\ buildMarks()
+comment5.text=\r\n\ Construye\ las\ marcas\ de\ cent\u00EDmetros.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getInformation()
+comment6.text=\r\n\ Informaci\u00F3n\ b\u00E1sica\ de\ la\ torre.\r\n
+numComments=7
